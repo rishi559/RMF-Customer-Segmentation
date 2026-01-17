@@ -131,43 +131,6 @@ Developed targeted strategies for each segment:
 3. A/B test retention strategies by segment
 
 ---
-
-## 🚀 How to Run This Project
-
-### Prerequisites
-```bash
-Python 3.8+
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Installation & Setup
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/rfm-customer-segmentation.git
-cd rfm-customer-segmentation
-```
-
-2. **Create virtual environment (recommended):**
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Launch Jupyter Notebook:**
-```bash
-jupyter notebook
-```
-
-5. **Open `RFM_Analysis_BrewCraft.ipynb` and run all cells**
-
----
-
 ## 📊 Sample Visualizations
 
 The notebook includes comprehensive visualizations:
@@ -197,21 +160,6 @@ The notebook includes comprehensive visualizations:
 - Mobile App (30%)
 - Retail Partners (10%)
 
----
-
-## 🔮 Next Steps (Phase 2)
-
-### Predictive Churn Model with Machine Learning
-- **K-Means Clustering** for advanced behavioral segmentation
-- **XGBoost Classifier** for churn prediction (target: 85%+ accuracy)
-- **Feature Engineering** from transaction patterns
-- **ROI Analysis** and business impact quantification
-- **CRM Integration** recommendations (Klaviyo automation)
-
-**Expected Outcome:** 88% prediction accuracy enabling proactive retention campaigns
-
----
-
 ## 📚 Skills Demonstrated
 
 ### Technical Skills
@@ -238,17 +186,8 @@ Marketing Data Analyst | 5+ Years Experience
 Specializing in customer analytics, lifecycle analysis, and marketing optimization. Passionate about turning data into actionable business insights.
 
 **Connect with me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rishi-dhandi/))
 - 🌐 [Portfolio Website](https://rishidhandi.github.io)
-- 📧 [Email](mailto:your.email@example.com)
-
----
-
-## 📄 License
-
-This project is available for educational and portfolio purposes. The dataset is synthetic and created specifically for this analysis.
-
----
 
 ## 🙏 Acknowledgments
 
