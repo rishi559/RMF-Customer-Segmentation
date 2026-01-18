@@ -186,8 +186,7 @@ Marketing Data Analyst | 5+ Years Experience
 Specializing in customer analytics, lifecycle analysis, and marketing optimization. Passionate about turning data into actionable business insights.
 
 **Connect with me:**
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rishi-dhandi/)
-- 🌐 [Portfolio Website](https://rishidhandi.github.io)
+[LinkedIn](https://www.linkedin.com/in/rishi-dhandi/) | [GitHub](https://github.com/rishi559)
 
 ## 🙏 Acknowledgments
 
